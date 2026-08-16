@@ -314,6 +314,8 @@ During each iteration the network:
 
 ## Making Predictions
 
+![Example Prediction](Images/ImageofNumber.png)
+
 After training, predictions are made by performing another forward pass through the network.
 
 ```python
@@ -353,6 +355,9 @@ def get_accuracy(predictions, Y):
 | Metric               |                  Accuracy |
 | -------------------- | ------------------------: |
 | Training Accuracy    | 86% |
+
+
+![Graph of Results](Images/ImageofNumber.png)
 
 Results may vary slightly between runs because the dataset is shuffled and the weights and biases are randomly initialised.
 
