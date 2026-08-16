@@ -352,7 +352,7 @@ def get_accuracy(predictions, Y):
 
 | Metric               |                  Accuracy |
 | -------------------- | ------------------------: |
-| Training Accuracy    | **Add final result here** |
+| Training Accuracy    | 86% |
 
 Results may vary slightly between runs because the dataset is shuffled and the weights and biases are randomly initialised.
 
