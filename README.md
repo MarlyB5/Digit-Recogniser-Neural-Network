@@ -357,7 +357,7 @@ def get_accuracy(predictions, Y):
 | Training Accuracy    | 86% |
 
 
-![Graph of Results](Images/ImageofNumber.png)
+![Graph of Results](Images/Graph.png)
 
 Results may vary slightly between runs because the dataset is shuffled and the weights and biases are randomly initialised.
 
